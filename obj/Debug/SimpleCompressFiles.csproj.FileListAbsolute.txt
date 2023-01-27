@@ -1,0 +1,8 @@
+C:\Users\spark\source\repos\SimpleCompressFiles\bin\Debug\SimpleCompressFiles.exe.config
+C:\Users\spark\source\repos\SimpleCompressFiles\bin\Debug\SimpleCompressFiles.exe
+C:\Users\spark\source\repos\SimpleCompressFiles\bin\Debug\SimpleCompressFiles.pdb
+C:\Users\spark\source\repos\SimpleCompressFiles\obj\Debug\SimpleCompressFiles.csproj.AssemblyReference.cache
+C:\Users\spark\source\repos\SimpleCompressFiles\obj\Debug\SimpleCompressFiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\spark\source\repos\SimpleCompressFiles\obj\Debug\SimpleCompressFiles.csproj.CoreCompileInputs.cache
+C:\Users\spark\source\repos\SimpleCompressFiles\obj\Debug\SimpleCompressFiles.exe
+C:\Users\spark\source\repos\SimpleCompressFiles\obj\Debug\SimpleCompressFiles.pdb
